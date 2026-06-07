@@ -1,12 +1,19 @@
-Hello Everybody,Myself Himabindu.C
-I’m Interested in Python,HTML,IOT [Embedded system,machine learning],SQL..etc  
-I’m currently learning Advanced IOT,SQL
-I’m looking to collaborate on Open source projects,any hardware projects and so on..
-I am providing my Linkedin profile to notify me, https://www.linkedin.com/in/hima-bindu-c-
-You guyss can reach me by above mentioned linkedin account name.!!
-She/Her
+Hi, I'm Hima Bindu C 
 
-<!---
-Hima-nayaka/Hima-nayaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Final Year ECE Student | Learning Python, SQL, Embedded Systems, IoT & Software Development
+
+Interested in:
+
+• Python Programming
+• SQL & Database Management 
+• Software Development  
+• IoT & Embedded Systems  
+
+Currently Learning:
+Python, SQL, IoT and Software Development
+
+Open to:
+Collaborations, Internship Opportunities and Learning Projects
+
+LinkedIn:
+https://www.linkedin.com/in/hima-bindu-c-
