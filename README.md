@@ -1,6 +1,6 @@
 Hi, I'm Hima Bindu C 
 
-ECE Graduate | Aspiring Software Engineer| Learning Python, SQL, Embedded Systems, IoT & Software Development
+ECE Graduate | Aspiring Software Engineer| Learning Python, SQL, IoT, Embedded Systems, & Software Development
 
 Interested in:
 
